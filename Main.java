@@ -13,8 +13,8 @@ public class Main {
             for (int i = 0; i < 5; i++) {
                 int numVertices = (int) Math.pow(5, power);
 
-                System.out.println("Número de vértices: " + numVertices);
-                System.out.println("Número de arestas: " + numArestasArray[i]);
+                System.out.println("Numero de vertices: " + numVertices);
+                System.out.println("Numero de arestas: " + numArestasArray[i]);
 
                 String fileName = "meu_grafo_v" + power + "_grafo" + i + ".csv";
                 Grafo myGraph = new Grafo(numVertices);
@@ -51,9 +51,9 @@ public class Main {
 
     private static void gravarTempoDeExecucao(long tempo, String fileName) {
         try (FileWriter writer = new FileWriter(fileName, true)) {
-            writer.write("Tempo de execução total: " + tempo + " milissegundos\n");
+            writer.write("Tempo de execucao total: " + tempo + " milissegundos\n");
         } catch (IOException e) {
-            System.out.println("Erro ao gravar o tempo de execução: " + e.getMessage());
+            System.out.println("Erro ao gravar o tempo de execucao: " + e.getMessage());
         }
     }
 }

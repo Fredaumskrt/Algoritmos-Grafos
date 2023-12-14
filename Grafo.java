@@ -94,13 +94,13 @@ public class Grafo {
                 int peso = aresta.getPeso();
 
                 if (distancias[u] != Integer.MAX_VALUE && distancias[u] + peso < distancias[v]) {
-                    System.out.println("O grafo contém um ciclo negativo!");
+                    System.out.println("O grafo contem um ciclo negativo!");
                     return;
                 }
             }
         }
 
-        System.out.println("Distâncias mínimas após o Bellman-Ford:");
+        System.out.println("Distancias minimas apos o Bellman-Ford:");
         for (int i = 0; i < numVertices; ++i) {
             System.out.println("Vertice " + i + ": " + distancias[i]);
         }
@@ -137,7 +137,7 @@ public class Grafo {
             }
         }
 
-        System.out.println("Distâncias mínimas após o Floyd-Warshall:");
+        System.out.println("Distancias minimas apos o Floyd:");
         for (int i = 0; i < numVertices; ++i) {
             for (int j = 0; j < numVertices; ++j) {
                 System.out.print(dist[i][j] + " ");
@@ -160,9 +160,9 @@ public class Grafo {
                 writer.append("\n");
             }
             writer.flush();
-            System.out.println("Distâncias salvas em " + nomeArquivo);
+            System.out.println("Distancias salvas em " + nomeArquivo);
         } catch (IOException e) {
-            System.out.println("Erro ao salvar o arquivo de distâncias: " + e.getMessage());
+            System.out.println("Erro ao salvar o arquivo de distancias: " + e.getMessage());
         }
     }
 
@@ -241,11 +241,11 @@ public class Grafo {
             long tempoTotal = fim - inicio;
 
             writer.write("Algoritmo: " + algoritmo + "\n");
-            writer.write("Número de Vértices: " + numVertices + "\n");
-            writer.write("Tempo de execução: " + tempoTotal + " nanossegundos\n");
+            writer.write("Numero de Vertices: " + numVertices + "\n");
+            writer.write("Tempo de execucao: " + tempoTotal + " nanossegundos\n");
             writer.write("-------------------------------------\n");
         } catch (IOException e) {
-            System.out.println("Erro ao salvar o tempo de execução: " + e.getMessage());
+            System.out.println("Erro ao salvar o tempo de execucao: " + e.getMessage());
         }
     }
 
