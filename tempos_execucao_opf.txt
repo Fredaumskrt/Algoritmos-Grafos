@@ -1,0 +1,40 @@
+Tempo de execucao: 7441400 nanossegundos
+-------------------------------------
+Tempo de execucao: 439100 nanossegundos
+-------------------------------------
+Tempo de execucao: 341300 nanossegundos
+-------------------------------------
+Tempo de execucao: 364200 nanossegundos
+-------------------------------------
+Tempo de execucao: 344000 nanossegundos
+-------------------------------------
+Tempo de execucao: 358900 nanossegundos
+-------------------------------------
+Tempo de execucao: 409300 nanossegundos
+-------------------------------------
+Tempo de execucao: 1087700 nanossegundos
+-------------------------------------
+Tempo de execucao: 892400 nanossegundos
+-------------------------------------
+Tempo de execucao: 557400 nanossegundos
+-------------------------------------
+Tempo de execucao: 315400 nanossegundos
+-------------------------------------
+Tempo de execucao: 808700 nanossegundos
+-------------------------------------
+Tempo de execucao: 847600 nanossegundos
+-------------------------------------
+Tempo de execucao: 1546400 nanossegundos
+-------------------------------------
+Tempo de execucao: 1419800 nanossegundos
+-------------------------------------
+Tempo de execucao: 310600 nanossegundos
+-------------------------------------
+Tempo de execucao: 7164700 nanossegundos
+-------------------------------------
+Tempo de execucao: 2603900 nanossegundos
+-------------------------------------
+Tempo de execucao: 1283400 nanossegundos
+-------------------------------------
+Tempo de execucao: 3255700 nanossegundos
+-------------------------------------

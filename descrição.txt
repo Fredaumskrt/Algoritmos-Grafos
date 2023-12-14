@@ -1,0 +1,16 @@
+Johnson(G):
+    Adicione um novo vértice e arestas com peso 0 para cada outro vértice
+
+    Execute Bellman-Ford para reponderação
+    Se houver um ciclo negativo, retorne "Grafo contém ciclo negativo"
+
+    Remova o vértice adicionado e suas arestas
+    Inicialize distâncias[vértice][vértice] para infinito
+
+    Para cada vértice u:
+        Execute Dijkstra com pesos ajustados usando os resultados do Bellman-Ford
+        Atualize distâncias[u][v] usando os resultados do Dijkstra
+
+    Restaure os pesos originais das arestas
+
+    Retorne dist

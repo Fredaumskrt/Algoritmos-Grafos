@@ -23,7 +23,10 @@ public class Main {
 
                 myGraph.criarGrafoConexoAleatorio(numArestasArray[i]);
                 myGraph.salvarGrafoCSV(fileName);
-
+                myGraph.salvarTempoDijkstra(0);
+                myGraph.salvarTempoBellmanFord(0);
+                myGraph.salvarTempoFloydWarshall();
+                myGraph.salvarTempoOPF(0);
                 // Executa o algoritmo de Dijkstra
                 int sourceVertexDijkstra = 0; // Escolha o vértice de origem desejado
                 Map<Integer, Integer> distancesDijkstra = myGraph.dijkstra(sourceVertexDijkstra);

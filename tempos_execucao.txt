@@ -1,140 +1,160 @@
 Algoritmo: OPF
-Número de Vértices: 5
-Tempo de execução: 408100 nanossegundos
+Numero de Vertices: 5
+Tempo de execucao: 767700 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 5
-Tempo de execução: 46500 nanossegundos
+Numero de Vertices: 5
+Tempo de execucao: 19800 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 5
-Tempo de execução: 43100 nanossegundos
+Numero de Vertices: 5
+Tempo de execucao: 16600 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 5
-Tempo de execução: 88600 nanossegundos
+Numero de Vertices: 5
+Tempo de execucao: 24900 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 5
-Tempo de execução: 29300 nanossegundos
+Numero de Vertices: 5
+Tempo de execucao: 17400 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 25
-Tempo de execução: 19400 nanossegundos
+Numero de Vertices: 5
+Tempo de execucao: 35200 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 25
-Tempo de execução: 187300 nanossegundos
+Numero de Vertices: 5
+Tempo de execucao: 32700 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 25
-Tempo de execução: 105100 nanossegundos
+Numero de Vertices: 5
+Tempo de execucao: 22600 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 25
-Tempo de execução: 462200 nanossegundos
+Numero de Vertices: 5
+Tempo de execucao: 39600 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 25
-Tempo de execução: 114600 nanossegundos
+Numero de Vertices: 5
+Tempo de execucao: 38600 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 125
-Tempo de execução: 34900 nanossegundos
+Numero de Vertices: 25
+Tempo de execucao: 14400 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 125
-Tempo de execução: 1593000 nanossegundos
+Numero de Vertices: 25
+Tempo de execucao: 20400 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 125
-Tempo de execução: 763300 nanossegundos
+Numero de Vertices: 25
+Tempo de execucao: 131300 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 125
-Tempo de execução: 3694800 nanossegundos
+Numero de Vertices: 25
+Tempo de execucao: 99800 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 125
-Tempo de execução: 1054200 nanossegundos
+Numero de Vertices: 25
+Tempo de execucao: 704000 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 625
-Tempo de execução: 33200 nanossegundos
+Numero de Vertices: 25
+Tempo de execucao: 73300 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 625
-Tempo de execução: 5072400 nanossegundos
+Numero de Vertices: 25
+Tempo de execucao: 93100 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 625
-Tempo de execução: 4351700 nanossegundos
+Numero de Vertices: 25
+Tempo de execucao: 80500 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 625
-Tempo de execução: 1792800 nanossegundos
+Numero de Vertices: 25
+Tempo de execucao: 184000 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 625
-Tempo de execução: 1713300 nanossegundos
+Numero de Vertices: 25
+Tempo de execucao: 92400 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 5
-Tempo de execução: 646700 nanossegundos
+Numero de Vertices: 125
+Tempo de execucao: 14900 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 5
-Tempo de execução: 28200 nanossegundos
+Numero de Vertices: 125
+Tempo de execucao: 16600 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 5
-Tempo de execução: 107000 nanossegundos
+Numero de Vertices: 125
+Tempo de execucao: 409200 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 5
-Tempo de execução: 22200 nanossegundos
+Numero de Vertices: 125
+Tempo de execucao: 317100 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 5
-Tempo de execução: 21900 nanossegundos
+Numero de Vertices: 125
+Tempo de execucao: 509400 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 25
-Tempo de execução: 30200 nanossegundos
+Numero de Vertices: 125
+Tempo de execucao: 702600 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 25
-Tempo de execução: 386000 nanossegundos
+Numero de Vertices: 125
+Tempo de execucao: 946200 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 25
-Tempo de execução: 131300 nanossegundos
+Numero de Vertices: 125
+Tempo de execucao: 775700 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 25
-Tempo de execução: 174600 nanossegundos
+Numero de Vertices: 125
+Tempo de execucao: 1010400 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 25
-Tempo de execução: 962800 nanossegundos
+Numero de Vertices: 125
+Tempo de execucao: 837300 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 125
-Tempo de execução: 17400 nanossegundos
+Numero de Vertices: 625
+Tempo de execucao: 31200 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 125
-Tempo de execução: 719800 nanossegundos
+Numero de Vertices: 625
+Tempo de execucao: 23200 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 125
-Tempo de execução: 516400 nanossegundos
+Numero de Vertices: 625
+Tempo de execucao: 6765300 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 125
-Tempo de execução: 705600 nanossegundos
+Numero de Vertices: 625
+Tempo de execucao: 1334000 nanossegundos
 -------------------------------------
 Algoritmo: OPF
-Número de Vértices: 125
-Tempo de execução: 1107400 nanossegundos
+Numero de Vertices: 625
+Tempo de execucao: 2209800 nanossegundos
+-------------------------------------
+Algoritmo: OPF
+Numero de Vertices: 625
+Tempo de execucao: 952300 nanossegundos
+-------------------------------------
+Algoritmo: OPF
+Numero de Vertices: 625
+Tempo de execucao: 957700 nanossegundos
+-------------------------------------
+Algoritmo: OPF
+Numero de Vertices: 625
+Tempo de execucao: 1385300 nanossegundos
+-------------------------------------
+Algoritmo: OPF
+Numero de Vertices: 625
+Tempo de execucao: 2836300 nanossegundos
+-------------------------------------
+Algoritmo: OPF
+Numero de Vertices: 625
+Tempo de execucao: 1183500 nanossegundos
 -------------------------------------

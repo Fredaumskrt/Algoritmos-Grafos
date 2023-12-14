@@ -45,6 +45,7 @@ public class Grafo {
         }
         return false;
     }
+    
 
     public void salvarGrafoCSV(String nomeArquivo) {
         try (FileWriter writer = new FileWriter(nomeArquivo)) {
@@ -105,6 +106,52 @@ public class Grafo {
             System.out.println("Vertice " + i + ": " + distancias[i]);
         }
     }
+
+
+    public void salvarTempoDijkstra(int verticeOrigem) {
+        long inicio = System.nanoTime();
+        dijkstra(verticeOrigem);
+        long fim = System.nanoTime();
+
+        salvarTempo("tempos_execucao_dijkstra.txt", inicio, fim);
+    }
+
+    public void salvarTempoBellmanFord(int verticeOrigem) {
+        long inicio = System.nanoTime();
+        bellmanFord(verticeOrigem);
+        long fim = System.nanoTime();
+
+        salvarTempo("tempos_execucao_bellmanford.txt", inicio, fim);
+    }
+
+    public void salvarTempoFloydWarshall() {
+        long inicio = System.nanoTime();
+        floydWarshall();
+        long fim = System.nanoTime();
+
+        salvarTempo("tempos_execucao_floydwarshall.txt", inicio, fim);
+    }
+
+    public void salvarTempoOPF(int verticeOrigem) {
+        long inicio = System.nanoTime();
+        executarOPF(verticeOrigem);
+        long fim = System.nanoTime();
+
+        salvarTempo("tempos_execucao_opf.txt", inicio, fim);
+    }
+
+    private void salvarTempo(String nomeArquivo, long inicio, long fim) {
+        try (FileWriter writer = new FileWriter(nomeArquivo, true)) {
+            long tempoTotal = fim - inicio;
+
+            writer.write("Tempo de execucao: " + tempoTotal + " nanossegundos\n");
+            writer.write("-------------------------------------\n");
+        } catch (IOException e) {
+            System.out.println("Erro ao salvar o tempo de execucao: " + e.getMessage());
+        }
+    }
+
+
 
     public int[][] floydWarshall() {
         int[][] dist = new int[numVertices][numVertices];
@@ -247,6 +294,12 @@ public class Grafo {
         } catch (IOException e) {
             System.out.println("Erro ao salvar o tempo de execucao: " + e.getMessage());
         }
+
+
+        
+
+
+
     }
 
     public static class Aresta {
